@@ -1,0 +1,14 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de teste de aceitação do app buger etas",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Cristian Fabiano Eisenhut",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
